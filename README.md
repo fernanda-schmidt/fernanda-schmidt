@@ -12,8 +12,7 @@
 - Completing the 100 Days of Python challenge
 - Building Java projects while learning OOP
 - Studying PostgreSQL and databases
-- Creating a future Data Analytics portfolio
-
+- Building a Data Analytics portfolio with SQL and Python
 ---
 
 ## 🛠️ Tech Stack
@@ -63,5 +62,11 @@ Currently building projects with SQL and data analysis.
 - [GitHub](https://github.com/fernanda-schmidt)
 
 ---
+
+## 📊 GitHub Stats
+
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda-schmidt&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-schmidt&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
