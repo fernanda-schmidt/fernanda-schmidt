@@ -3,7 +3,7 @@
 🎓 Computer Science student  
 📊 Aspiring Software Developer & Data Analyst  
 ☕ Currently learning Java, Python, SQL, and Data Analytics  
-🇧🇷 Based in Brazil  
+🇧🇷 Based in Brasil  
 
 ---
 
