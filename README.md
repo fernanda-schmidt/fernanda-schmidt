@@ -11,7 +11,7 @@
 
 - Building a Data Analytics portfolio with Python and SQL
 - Practicing data exploration and visualization to communicate insights clearly
-- Studying PostgreSQL, databases, and writing better queries
+- Studying MySQL, databases, and writing better queries
 - Completing the 100 Days of Python challenge and building Java projects
 
 ---
@@ -21,8 +21,8 @@
 ### Data & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B8BBE?style=for-the-badge)
 
 ### Programming & Tools
@@ -40,6 +40,6 @@
 
 - Data Analytics and Data Visualization
 - Python for data analysis
-- SQL and PostgreSQL
+- SQL and MySQL
 - Data Structures, Algorithms, and Object-Oriented Programming
 - Italian 🇮🇹 and French 🇫🇷
